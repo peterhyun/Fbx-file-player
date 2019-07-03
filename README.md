@@ -1,6 +1,8 @@
 # Fbx-file-player
 A fbx file player based on OpenGL3.3, GLFW3, FBX SDK
 
+Developed in a linux environment (Ubuntu 18.04)
+
 =======================================================
 
 How to compile:
