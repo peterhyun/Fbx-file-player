@@ -18,3 +18,9 @@ Move camera: ASDW
 Move view direction: Move mouse
 
 Play animation: spacebar
+
+========================================================
+
+Some cool videos I made based on this player
+
+https://www.youtube.com/watch?v=bEgeBJthBbI
