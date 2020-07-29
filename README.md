@@ -24,3 +24,8 @@ Play animation: spacebar
 Some cool videos I made based on this player
 
 https://www.youtube.com/watch?v=bEgeBJthBbI
+
+------------------------------------------------------------
+This version is obsolete. Takes way too long to load and lacks some critical implementations such as normal mapping.
+Go to the repository below for a refined version.
+https://github.com/peterhyun/AnimationFramework
