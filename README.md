@@ -5,7 +5,7 @@ This version is obsolete. Takes way too long to load and lacks some critical imp
 Go to the following repository for a refined version.
 https://github.com/peterhyun/AnimationFramework
 
-============================================================
+============================================================  
 A fbx file player based on OpenGL3.3, GLFW3, FBX SDK
 
 Developed in a linux environment (Ubuntu 18.04)
