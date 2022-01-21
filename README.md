@@ -14,7 +14,7 @@ Developed in a linux environment (Ubuntu 18.04)
 
 How to compile:
 
-In the directory where this README file is located, type "sudo make" in the terminal.
+Download this repository and in the directory where this README file is located, type "sudo make" in the terminal.
 
 Type "./FBXLoader (fbxfilename).fbx" on the terminal.
 
